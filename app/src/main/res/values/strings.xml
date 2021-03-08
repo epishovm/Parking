@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Нарушения парковки</string>
+    <string-array name="koap">
+        <item>1.2</item>
+        <item>1.3</item>
+        <item>1.4</item>
+        <item>1.5</item>
+    </string-array>
+</resources>
